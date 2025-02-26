@@ -1,0 +1,22 @@
+{
+  "name": "playwright-_arfan",
+  "version": "1.0.0",
+  "description": "I am practice in github",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdmrahman148/playwright-_Arfan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdmrahman148/playwright-_Arfan/issues"
+  },
+  "homepage": "https://github.com/mdmrahman148/playwright-_Arfan#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5"
+  }
+}
